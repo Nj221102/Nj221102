@@ -38,17 +38,17 @@ const Nitish = {
 ##                        🔥 GitHub stats:
 
 <p align="center">
-  <a href="https://github.com/Akhilesh-max">
-    <img title="GitHub Stats" alt="Akhilesh's streak" src="https://streak-stats.demolab.com/?user=Akhilesh-max&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <a href="https://github.com/Nj221102">
+    <img title="GitHub Stats" alt="Nitish's streak" src="https://streak-stats.demolab.com/?user=Nj221102&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Akhilesh-max">
-    <img alt="Akhilesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akhilesh-max&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="150px"/>
+  <a href="https://github.com/Nj221102">
+    <img alt="Nitish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nj221102&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="150px"/>
   </a>
-  <a href="https://github.com/Akhilesh-max">
-    <img alt="Akhilesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh-max&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="150px"/>
+  <a href="https://github.com/Nj221102">
+    <img alt="Nitish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nj221102&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="150px"/>
   </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -56,6 +56,6 @@ const Nitish = {
 
 
 
-[![Akhilesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilesh-max&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Akhilesh-max/github-readme-activity-graph)
+[![Nitish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nj221102&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Nj221102/github-readme-activity-graph)
 <h3 align="center">Visitor's count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{Akhilesh-max}/count.svg/" alt="Akhilesh-max Visitor's count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Nj221102}/count.svg/" alt="Nj221102 Visitor's count" /></p>
