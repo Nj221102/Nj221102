@@ -4,7 +4,7 @@
 </em></p>
 
 [![Insta: Nitish](https://img.shields.io/twitter/follow/nitishjha5566?style=social)](https://twitter.com/aky241005) &nbsp;&nbsp;
-[![Linkedin: Nitish Jha](https://img.shields.io/badge/-Nitish-Jha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/akhilesh-kr-yadav) &nbsp;&nbsp;
+[![Linkedin: Nitish Jha](https://img.shields.io/badge/Linkdin-nitish_Jha-blue)](https://www.linkedin.com/in/akhilesh-kr-yadav) &nbsp;&nbsp;
 <a href="https://leetcode.com/Nitishj221102/">
     <img src="https://img.shields.io/badge/-LeetCode-black?style=social&logo=Leetcode" alt="Leetcode badge">
 </a> &nbsp;&nbsp;
