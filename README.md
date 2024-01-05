@@ -13,17 +13,17 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Akhilesh = {
+const Nitish = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Golang, Python, Java],
-  tools: [React, Express , Node, Storybook, Styled-Components, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [React, Express , Node, Docker],
+  
   techCommunities: {
-                        Tech club: "FunctionUp",
-                        speaker: "inventix",
+                        Training and placement club: "FunctionUp",
+                        speaker: "TPC FunctionUp",
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on MERN, Besides DSA"
- Hobbies: " 🗣️ Public Speaking &&  📈 Algorithmic Trading "
+ Hobbies: " Reading books and coding"
 }
 ```
 
