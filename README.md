@@ -18,7 +18,7 @@ const Nitish = {
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [React, Express , Node, Docker],
   
-  techCommunities: {
+  Communities: {
                         Training and placement club: "FunctionUp",
                         speaker: "TPC FunctionUp",
                       },
