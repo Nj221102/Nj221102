@@ -22,7 +22,7 @@ const Nitish = {
                         Training and placement club: "FunctionUp",
                         speaker: "TPC FunctionUp",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on MERN, Besides DSA"
+ challenge: "I am doing the #100DaysOfCode challenge focused on open-source contribution, Besides DSA"
  Hobbies: " Reading books and coding"
 }
 ```
