@@ -1,6 +1,6 @@
 <h2> Hi, I'm Nitish jha.!  <img src="https://media.giphy.com/media/WUm2STzv0N5fl3ezyr/giphy.gif" width="50"></h2>
 <img align='right' src="output-onlinegiftools.gif" width="240">
-<p><em> Student at <a href="https://www.functionupuniversity.com/">FunctionUp School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring : R and Data science </br> Open Source Contributor At Scarpe<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> Student at <a href="https://www.functionupuniversity.com/">FunctionUp School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring : R and Data science </br>Member of Rdatatable/data.table </br> Open Source Contributor At Scarpe<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Insta: Nitish](https://img.shields.io/twitter/follow/nitishjha5566?style=social)](https://www.instagram.com/nitishjha5566/) &nbsp;&nbsp;
