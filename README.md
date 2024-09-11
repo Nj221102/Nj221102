@@ -15,7 +15,7 @@
 ```javascript
 const Nitish = {
   pronouns: "he" | "him",
-  code: [R,Javascript, Go, HTML, CSS, Java, Ruby ],
+  code: [R,Javascript, Go, HTML, CSS, Java, Ruby, Rust ],
   tools: [React, Express , Node, Docker, Github, Rstudio ],
   
   Communities: {
