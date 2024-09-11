@@ -19,8 +19,8 @@ const Nitish = {
   tools: [React, Express , Node, Docker, Github, Rstudio ],
   
   Communities: {
-                        Training and placement club: "FunctionUp",
-                        speaker: "TPC FunctionUp",
+                        Training and placement club: "PST",
+                        speaker: "TPC PST",
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on open-source contribution, Besides DSA"
  Hobbies: " Reading books and coding"
