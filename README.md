@@ -1,61 +1,78 @@
-<h2> Hi, I'm Nitish jha.!  <img src="https://media.giphy.com/media/WUm2STzv0N5fl3ezyr/giphy.gif" width="50"></h2>
-<img align='right' src="output-onlinegiftools.gif" width="240">
-<p><em> Student at <a href="https://www.functionupuniversity.com/">Polaris School of Technology(Starex university)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring : R and Data science </br>Member of Rdatatable/data.table </br> Open Source Contributor At Scarpe<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-[![Insta: Nitish](https://img.shields.io/twitter/follow/nitishjha5566?style=social)](https://www.instagram.com/nitishjha5566/) &nbsp;&nbsp;
-[![Linkedin: Nitish Jha](https://img.shields.io/badge/Linkdin-nitish_Jha-blue)](https://www.linkedin.com/in/nitish-jha-2b82aa155/) &nbsp;&nbsp;
-<a href="https://leetcode.com/Nitishj221102/">
-    <img src="https://img.shields.io/badge/-LeetCode-black?style=social&logo=Leetcode" alt="Leetcode badge">
-</a> &nbsp;&nbsp;
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const Nitish = {
-  pronouns: "he" | "him",
-  code: [R,Javascript, Go, HTML, CSS, Java, Ruby, Rust ],
-  tools: [React, Express , Node, Docker, Github, Rstudio ],
-  
-  Communities: {
-                        Training and placement club: "PST",
-                        speaker: "TPC PST",
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on open-source contribution, Besides DSA"
- Hobbies: " Reading books and coding"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-## ❤️ Today's Inspiration
+<!-- Profile Header -->
+<h1 align="center">Nitish Jha</h1>
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?font=merienda" alt="Github Readme Daily Quotes">
-</p>
-
-
-##                        🔥 GitHub stats:
-
-<p align="center">
-  <a href="https://github.com/Nj221102">
-    <img title="GitHub Stats" alt="Nitish's streak" src="https://streak-stats.demolab.com/?user=Nj221102&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  </a>
+  <b>Software Engineer</b> · New Delhi, India<br/>
+  Privacy-first systems · Decentralized infrastructure · Open source
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nj221102">
-    <img alt="Nitish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nj221102&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="150px"/>
-  </a>
-  <a href="https://github.com/Nj221102">
-    <img alt="Nitish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nj221102&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="150px"/>
-  </a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <a href="https://nitishjha.space"><img src="https://img.shields.io/badge/Portfolio-nitishjha.space-0A0A0A?style=for-the-badge" /></a>
+  <a href="mailto:Nitishj221102@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Nitish%20Jha-blue?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Nostr-npub-8A2BE2?style=for-the-badge" /></a>
 </p>
 
+---
 
+## 👋 About Me
+I’m a **Software Engineer based in New Delhi, India**, focused on building  
+**privacy-enhancing tools**, **blockchain infrastructure**, and **open-source software**.
 
-[![Nitish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nj221102&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Nj221102/github-readme-activity-graph)
-<h3 align="center">Visitor's count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{Nj221102}/count.svg/" alt="Nj221102 Visitor's count" /></p>
+I enjoy working across the stack — from **protocol-level systems** to **scalable backend services** — with a strong emphasis on correctness, performance, and decentralization.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)
+
+### Web & Backend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-Rust_Framework-orange?style=flat-square)
+
+### Protocols
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Lightning](https://img.shields.io/badge/Lightning-Network-yellow?style=flat-square)
+![Nostr](https://img.shields.io/badge/Nostr-Decentralized-purple?style=flat-square)
+
+---
+
+## 🚀 Experience
+- **Summer of Bitcoin 2025 — Shopstr**  
+  _Non-custodial Lightning backends_ · **Rust, LDK**
+
+- **Google Summer of Code 2024 — R Project**  
+  Contributor to **data.table**, improving documentation and developer experience.
+
+- **Classplus**  
+  Built scalable backend infrastructure using **Go** and **SQL/NoSQL** systems.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent" height="150" />
+</p>
+
+---
+
+## 🤝 Connect
+- 🌐 **Portfolio**: [nitishjha.space](https://nitishjha.space)  
+- 📧 **Email**: [Nitishj221102@gmail.com](mailto:Nitishj221102@gmail.com)  
+- 💼 **LinkedIn**: Nitish Jha  
+- ⚡ **Nostr**: `npub1f2xq7aqvu6c53dlsnlptgd960ls9glhczm7juuh9tjx6nf4cr5qsz4lmaj`
+
+---
+
+<p align="center">
+  <i>Open to collaborating on Bitcoin, Lightning, and privacy-focused open-source projects.</i>
+</p>
