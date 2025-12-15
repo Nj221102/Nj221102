@@ -59,8 +59,8 @@ I enjoy working across the stack — from **protocol-level systems** to **scalab
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nj221102&show_icons=true&theme=transparent" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nj221102&theme=transparent" height="150" />
 </p>
 
 ---
