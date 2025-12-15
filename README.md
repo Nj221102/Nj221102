@@ -8,8 +8,7 @@
 <p align="center">
   <a href="https://nitishjha.space"><img src="https://img.shields.io/badge/Portfolio-nitishjha.space-0A0A0A?style=for-the-badge" /></a>
   <a href="mailto:Nitishj221102@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Nitish%20Jha-blue?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Nostr-npub-8A2BE2?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/nitish-jha-2b82aa155/"><img src="https://img.shields.io/badge/LinkedIn-Nitish%20Jha-blue?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -68,7 +67,7 @@ I enjoy working across the stack — from **protocol-level systems** to **scalab
 ## 🤝 Connect
 - 🌐 **Portfolio**: [nitishjha.space](https://nitishjha.space)  
 - 📧 **Email**: [Nitishj221102@gmail.com](mailto:Nitishj221102@gmail.com)  
-- 💼 **LinkedIn**: Nitish Jha  
+- 💼 **LinkedIn**: [Nitish](https://www.linkedin.com/in/nitish-jha-2b82aa155/) 
 - ⚡ **Nostr**: `npub1f2xq7aqvu6c53dlsnlptgd960ls9glhczm7juuh9tjx6nf4cr5qsz4lmaj`
 
 ---
