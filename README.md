@@ -1,15 +1,23 @@
 <!-- Profile Header -->
 <h1 align="center">Nitish Jha</h1>
-<p align="center">
-  <b>Software Engineer</b> · New Delhi, India<br/>
-  Privacy-first systems · Decentralized infrastructure · Open source
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg" style="display:block">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=520&lines=Systems+Engineer;Privacy-First+Infrastructure;Bitcoin+%26+Lightning+Dev;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <a href="https://nitishjha.space"><img src="https://img.shields.io/badge/Portfolio-nitishjha.space-0A0A0A?style=for-the-badge" /></a>
-  <a href="mailto:Nitishj221102@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/nitish-jha-2b82aa155/"><img src="https://img.shields.io/badge/LinkedIn-Nitish%20Jha-blue?style=for-the-badge" /></a>
-</p>
+  <p>
+    <a href="https://nitishjha.space">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/nitish-jha-2b82aa155/">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+    </a>
+    <a href="mailto:Nitishj221102@gmail.com">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    </a>
+  </p>
+</div>
+
 
 ---
 
@@ -57,10 +65,14 @@ I enjoy working across the stack — from **protocol-level systems** to **scalab
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nj221102&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nj221102&theme=transparent" height="150" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nj221102&show_icons=true&bg_color=000000&title_color=00F2FF&icon_color=00F2FF&text_color=ffffff&border_color=000000&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nj221102&theme=dark&background=000000&stroke=000000&ring=00F2FF&fire=00F2FF&currStreakNum=ffffff&currStreakLabel=00F2FF&sideNums=ffffff&sideLabels=ffffff&hide_border=true" height="150" alt="Streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nj221102&layout=compact&bg_color=000000&title_color=00F2FF&text_color=ffffff&hide_border=true&langs_count=6" height="140" alt="Top languages" />
+</div>
 
 ---
 
